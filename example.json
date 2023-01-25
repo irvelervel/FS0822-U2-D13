@@ -1,0 +1,20 @@
+{
+  "name": "Stefano",
+  "surname": "Casasola",
+  "age": 999,
+  "teacher": true,
+  "area": {
+    "region": "FVG",
+    "zipCode": 55555
+  },
+  "skills": [
+    {
+      "name": "JS",
+      "rating": 6
+    },
+    {
+      "name": "CSS",
+      "rating": 3
+    }
+  ]
+}
